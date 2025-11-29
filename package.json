@@ -1,0 +1,21 @@
+{
+  "name": "hyper-shooting",
+  "version": "1.0.0",
+  "description": "Bullet Hell Shooting Game with Phaser",
+  "main": "src/main.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["game", "phaser", "shooting", "bullet-hell"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "vite": "^5.0.10"
+  },
+  "dependencies": {
+    "phaser": "^3.70.0"
+  }
+}
